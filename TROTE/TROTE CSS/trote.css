@@ -138,8 +138,18 @@
     transition: 150ms;
 }
 .foto:hover{
-box-shadow: 4px 4px 2px black;
-transition: 150ms;
+animation-name: fot;
+}
+@keyframes fot{
+    0%{
+box-shadow: 4px 4px 2px red;
+    }
+    50%{
+        box-shadow: 4px 4px 2px red;
+            }
+            100%{
+                box-shadow: 4px 4px 2px red;
+                    }
 }
 a:hover{
     border-radius: 5%;
