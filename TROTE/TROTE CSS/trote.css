@@ -138,9 +138,7 @@
     transition: 150ms;
 }
 .foto:hover{
-animation-name: fot;
-animation-duration: 150ms;
-animation: none;
+    animation: fot 2s infinite;
 }
 @keyframes fot{
     0%{
