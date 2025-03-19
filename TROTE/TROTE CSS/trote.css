@@ -139,6 +139,7 @@
 }
 .foto:hover{
 box-shadow: 4px 4px 2px black;
+transition: 150ms;
 }
 a:hover{
     border-radius: 5%;
