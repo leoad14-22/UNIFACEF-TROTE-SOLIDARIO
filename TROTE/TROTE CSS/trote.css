@@ -1,0 +1,146 @@
+.cor{
+   background-color: whitesmoke;
+}
+.ca{
+    background-color: #97f425;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding: 15px 0px;
+}
+.links{
+    background-color: #41a5ff;
+    display: flex;
+    padding: 9px 0px;
+}
+.home{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 5px;
+    overscroll-behavior-y: 150pc;
+}
+.obj{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none; 
+    position: relative;
+    align-self: center;
+    left: 35px;
+}
+.int{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 20px;
+}
+.forma{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 110px;  
+}
+.gin{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 50px;
+}
+.inte{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 65px;
+}
+.obse{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 80px;
+}
+.calc{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    gap: 10px;
+    background-color:#008eea;
+    border-radius: 50pc;
+    padding: 15px 15px;
+    text-decoration: none;
+    position: relative;
+    align-self: center;
+    left: 95px;
+}
+.tex{
+    background-color: beige;
+    text-decoration: none;
+    align-content: center;
+    padding: 15px 15px;
+    align-self: center;
+    position: relative;
+    margin: 12px 12px;
+}
+.tor{
+    text-align: center;  
+}
+.foto{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 40pc;
+    border-radius: 15%;
+    transition: 150ms;
+}
+.foto:hover{
+box-shadow: 4px 4px 2px black;
+}
+a:hover{
+    border-radius: 5%;
+}
+
