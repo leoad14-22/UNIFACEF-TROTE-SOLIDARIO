@@ -142,5 +142,10 @@ transition: 150ms;
 }
 a:hover{
     border-radius: 5%;
+    box-shadow: 0px 0px 0px 2px black;
+    transition: 360ms;
+    background-color: #1b76c5;
+    color: white;
 }
+
 
