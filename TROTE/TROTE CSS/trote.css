@@ -130,12 +130,15 @@
     text-align: center;  
 }
 .foto{
-    width: 100px;
-    height: 100px;
-    position: relative;
-    left: 40pc;
-    border-radius: 15%;
-    transition: 150ms;
+    margin: 50px;
+    display: block;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: #ff8717;
+    cursor: pointer;
+    animation: none;
+    float: left;
 }
 .foto:hover{
     animation: fot 2s infinite;
