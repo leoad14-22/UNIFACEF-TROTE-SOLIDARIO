@@ -130,32 +130,16 @@
     text-align: center;  
 }
 .foto{
-    margin: 50px;
-    display: block;
-    width: 52px;
-    height: 52px;
-    border-radius: 50%;
-    background: #ff8717;
-    cursor: pointer;
-    animation: none;
-    float: left;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 40pc;
+    border-radius: 15%;
+    transition: 150ms;
 }
 .foto:hover{
-    animation: fot 2s infinite;
-}
-@keyframes fot{
-    0%{
-        -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
-        box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
-    }
-    50%{
-        -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
-    box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
-            }
-            100%{
-                -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
-                box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
-                    }
+box-shadow: 4px 4px 2px black;
+transition: 150ms;
 }
 a:hover{
     border-radius: 5%;
