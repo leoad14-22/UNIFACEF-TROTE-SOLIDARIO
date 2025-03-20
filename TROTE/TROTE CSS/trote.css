@@ -143,6 +143,8 @@
 .foto:hover{
 box-shadow: 4px 4px 2px black;
 transition: 150ms;
+
+
 }
 a:hover{
     border-radius: 5%;
@@ -167,7 +169,10 @@ background-color: #008eea;
 font-family: Arial, Helvetica, sans-serif;
 color: white;
 font-size: 25px;
-border: black;
 border-radius: 0px 0px 12px 12px;
 text-align: center;
+}
+.T{
+    font-size: 25px;
+    font-family: Arial, sans-serif;
 }
