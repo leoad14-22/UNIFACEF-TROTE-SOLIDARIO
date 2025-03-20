@@ -127,7 +127,7 @@
     position: relative;
     margin: 12px 12px;
     border-radius: 12px;
-    box-shadow: 0px 0px 3px 2px black;
+    box-shadow: 0px 0px 6px 1px black;
 }
 .tor{
     text-align: center;  
@@ -152,8 +152,22 @@ a:hover{
     color: white;
 }
 .tabela{
-left: 30pc;
+left: 20pc;
 background-color: white;
 position: relative;
+font-size: 25px;
+font-family: Arial, sans-serif;
+text-decoration: none;
+text-align: center;
 }
-
+.UNIFACEF{
+top: 15pc;
+position: relative;
+background-color: #008eea;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+font-size: 25px;
+border: black;
+border-radius: 0px 0px 12px 12px;
+text-align: center;
+}
