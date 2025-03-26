@@ -163,11 +163,7 @@ text-decoration: none;
 text-align: center;
 }
 .UNIFACEF{
-<<<<<<< HEAD
 position: relative;
-=======
-top: 15pc;
->>>>>>> 20c69b0b3abb360afa5fac36beaafb0a2165724c
 background-color: #008eea;
 font-family: Arial, Helvetica, sans-serif;
 color: white;
@@ -187,6 +183,7 @@ text-align: center;
 .sis:hover{
 top: 30pc;
 transition: 1s;
-margin-left: 35pc;
-margin-right: 35pc;
+margin-left: 40pc;
+margin-right: 40pc;
+border-radius: 45px;
 }
