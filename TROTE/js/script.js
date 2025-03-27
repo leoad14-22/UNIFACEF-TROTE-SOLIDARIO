@@ -5,7 +5,6 @@ function calcular(){
     
     homenagem = document.getElementById("homenagem").value
    
-    let soma = Number(mascote) + Number(homenagem)
     
     leite = document.getElementById("leite").value
 
